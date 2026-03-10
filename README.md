@@ -11,7 +11,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=Harishlal-me&theme=transparent&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Harishlal-me&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harishlal-me&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+## 🐍 Contribution Snake
 
+![snake gif](https://github.com/Harishlal-me/Harishlal-me/blob/output/github-contribution-grid-snake.svg)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
